@@ -1,5 +1,12 @@
-﻿import UnityEngine.SceneManagement;
+﻿#pragma strict
+import UnityEngine.SceneManagement;
 
 var Level : int;
 
-SceneManager.LoadScene("Level"+Level);
+function OnCollisionEnter (col : Collision)
+{
+    if(col.gameObject.name == "Platform")
+    {
+        SceneManager.LoadScene("Level"+Level);
+    }
+}
