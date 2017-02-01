@@ -2,4 +2,6 @@
 
 var Level : int;
 
-SceneManager.LoadScene("Level"+Level);
+on start {
+	SceneManager.LoadScene("Level"+Level);
+}
