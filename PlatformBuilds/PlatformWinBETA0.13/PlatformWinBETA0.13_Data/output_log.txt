@@ -1,0 +1,45 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7560D (ID=0x9904)
+    Vendor:   ATI
+    VRAM:     1065 MB
+    Driver:   13.351.1007.1006
+Begin MonoManager ReloadAssembly
+Platform assembly: I:\Downloads\PlatformBuilds\PlatformWinBETA0.13\PlatformWinBETA0.13_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading I:\Downloads\PlatformBuilds\PlatformWinBETA0.13\PlatformWinBETA0.13_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: I:\Downloads\PlatformBuilds\PlatformWinBETA0.13\PlatformWinBETA0.13_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading I:\Downloads\PlatformBuilds\PlatformWinBETA0.13\PlatformWinBETA0.13_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: I:\Downloads\PlatformBuilds\PlatformWinBETA0.13\PlatformWinBETA0.13_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading I:\Downloads\PlatformBuilds\PlatformWinBETA0.13\PlatformWinBETA0.13_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: I:\Downloads\PlatformBuilds\PlatformWinBETA0.13\PlatformWinBETA0.13_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading I:\Downloads\PlatformBuilds\PlatformWinBETA0.13\PlatformWinBETA0.13_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: I:\Downloads\PlatformBuilds\PlatformWinBETA0.13\PlatformWinBETA0.13_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading I:\Downloads\PlatformBuilds\PlatformWinBETA0.13\PlatformWinBETA0.13_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: I:\Downloads\PlatformBuilds\PlatformWinBETA0.13\PlatformWinBETA0.13_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading I:\Downloads\PlatformBuilds\PlatformWinBETA0.13\PlatformWinBETA0.13_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  2.120 seconds
+Platform assembly: I:\Downloads\PlatformBuilds\PlatformWinBETA0.13\PlatformWinBETA0.13_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: I:\Downloads\PlatformBuilds\PlatformWinBETA0.13\PlatformWinBETA0.13_Data\Managed\System.dll (this message is harmless)
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.310104 ms
+Platform assembly: I:\Downloads\PlatformBuilds\PlatformWinBETA0.13\PlatformWinBETA0.13_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.086907 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 291.
+Total: 0.226645 ms (FindLiveObjects: 0.031095 ms CreateObjectMapping: 0.016990 ms MarkObjects: 0.158683 ms  DeleteObjects: 0.012502 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.384875 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 258.
+Total: 0.338845 ms (FindLiveObjects: 0.032057 ms CreateObjectMapping: 0.022440 ms MarkObjects: 0.223759 ms  DeleteObjects: 0.057703 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 111c -> priority: 1 
